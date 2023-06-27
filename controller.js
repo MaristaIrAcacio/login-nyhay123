@@ -5,6 +5,6 @@ function acessar() {
     if(!loginEmail || !loginSenha) {
         alert("favor preencha os campos para acessar o site");
     } else {
-        window.location.href = "aula2.htnml"
+        window.location.href = "aula2.html";
     }
 }
